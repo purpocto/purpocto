@@ -56,7 +56,7 @@ It’s what drives my learning, fuels my persistence, and keeps me pushing forwa
 
 ## 🐍 GitHub Contribution Snake
 
-![GitHub Snake](https://github.com/purpocto/purpocto/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/purpocto/purpocto/output/github-contribution-grid-snake.svg)
 
 ---
 
