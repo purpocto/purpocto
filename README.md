@@ -56,7 +56,8 @@ It’s what drives my learning, fuels my persistence, and keeps me pushing forwa
 
 ## 🐍 GitHub Contribution Snake
 
-![GitHub Snake Light](https://github.com/ryanrbrown/ryanrbrown/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/purpocto/purpocto/blob/output/github-contribution-grid-snake.svg)
+
 
 > 💡 Tip: You’ll need to enable the [**GitHub Snake Action**](https://github.com/Platane/snk) in your repo to auto-generate this file.
 
