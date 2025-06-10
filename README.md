@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding banner gif"/>
-
 ## 👋 About Me
 
 Hi, I’m **Ryan R Brown**, a software engineer who thrives on solving problems, building creative web experiences, and continuously learning.
