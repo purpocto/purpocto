@@ -58,21 +58,16 @@ It’s what drives my learning, fuels my persistence, and keeps me pushing forwa
 
 ![GitHub Snake](https://github.com/purpocto/purpocto/blob/output/github-contribution-grid-snake.svg)
 
-
-> 💡 Tip: You’ll need to enable the [**GitHub Snake Action**](https://github.com/Platane/snk) in your repo to auto-generate this file.
-
 ---
 
 ## 👁️ Visitor Counter
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ryanrbrown&style=flat-square&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=purpocto&style=flat-square&color=blue)
 
 ---
 
 ## 🤝 Let’s Connect
 
 I'm always open to collaborating on fun projects, trading climbing stories, or sharing book recs.  
-📬 Reach out on [**LinkedIn**](https://www.linkedin.com/) or explore my latest work here on GitHub!
-
----
+📬 Reach out on [**LinkedIn**](https://www.linkedin.com/in/ryanbrowndev/) or explore my latest work here on GitHub!
 
