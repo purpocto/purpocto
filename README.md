@@ -48,8 +48,9 @@ It’s what drives my learning, fuels my persistence, and keeps me pushing forwa
 
 ## 📈 GitHub Stats
 
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanrbrown&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrbrown&layout=compact&theme=radical)
+![Ryan's GitHub Stats](https://github-readme-stats-nu-blond-89.vercel.app/api?username=purpocto&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-nu-blond-89.vercel.app/api/top-langs/?username=purpocto&layout=compact&theme=radical)
 
 ---
 
