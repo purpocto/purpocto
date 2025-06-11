@@ -37,15 +37,6 @@ It’s what drives my learning, fuels my persistence, and keeps me pushing forwa
 
 ---
 
-## 📚 Reading List
-
-- *Orphan X* – Gregg Hurwitz  
-- *Automate the Boring Stuff with Python* – Al Sweigart  
-- *The Phoenix Project* – Gene Kim & Kevin Behr  
-- *Next Up:* *Shoe Dog* – Phil Knight
-
----
-
 ## 📈 GitHub Stats
 
 ![Ryan's GitHub Stats](https://github-readme-stats-nu-blond-89.vercel.app/api?username=purpocto&show_icons=true&theme=radical)
