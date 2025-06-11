@@ -53,6 +53,6 @@ It’s what drives my learning, fuels my persistence, and keeps me pushing forwa
 
 ## 🤝 Let’s Connect
 
-I'm always open to collaborating on fun projects, trading climbing stories, or sharing book recs.  
+I'm always open to collaborating on fun projects or trading climbing stories.  
 📬 Reach out on [**LinkedIn**](https://www.linkedin.com/in/ryanbrowndev/) or explore my latest work here on GitHub!
 
