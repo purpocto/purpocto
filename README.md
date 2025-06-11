@@ -41,14 +41,11 @@ It’s what drives my learning, fuels my persistence, and keeps me pushing forwa
 
 ---
 
-## 👁️ Visitor Counter
-
-![Visitor Count](https://komarev.com/ghpvc/?username=purpocto&style=flat-square&color=blue)
-
----
-
 ## 🤝 Let’s Connect
 
 I'm always open to collaborating on fun projects or trading climbing stories.  
 📬 Reach out on [**LinkedIn**](https://www.linkedin.com/in/ryanbrowndev/) or explore my latest work here on GitHub!
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=purpocto&style=flat-square&color=blue)
 
