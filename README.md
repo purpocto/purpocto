@@ -6,6 +6,7 @@ I transitioned into tech to pursue a career that offers growth, flexibility, and
 
 Outside of coding, I’m a competitive track runner turned rock climber and distance runner. I live by the mindset:  
 > **"The sooner you embrace discomfort, the sooner it becomes your strength."**  
+
 It’s what drives my learning, fuels my persistence, and keeps me pushing forward.
 
 ---
