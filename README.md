@@ -1,10 +1,10 @@
-**Ryan Brown**, 
+**Ryan Brown** 
 
-> **Continuously Learning**
+**Continuously Learning**
 
-> **"Growth Over Destruction"**
+**Growth Over Destruction**
 
-> **"The sooner you embrace discomfort, the sooner it becomes your strength."**  
+**"The sooner you embrace discomfort, the sooner it becomes your strength."**  
 
 ---
 
