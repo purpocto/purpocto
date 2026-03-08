@@ -1,17 +1,13 @@
-## 👋 About Me
+**Ryan Brown**, 
 
-Hi, I’m **Ryan R Brown**, a software engineer who thrives on solving problems, building creative web experiences, and continuously learning.
+**Continuously Learning**
 
-I transitioned into tech to pursue a career that offers growth, flexibility, and the chance to create things that make a real impact. I come from a background in restaurant management, but I found my true passion in software development—where I get to think critically, face new challenges every day, and build tools that matter.
-
-Outside of coding, I’m a competitive track runner turned rock climber and distance runner. I live by the mindset:  
-> **"The sooner you embrace discomfort, the sooner it becomes your strength."**  
-
-It’s what drives my learning, fuels my persistence, and keeps me pushing forward.
+**"Growth Over Destruction"**
+**"The sooner you embrace discomfort, the sooner it becomes your strength."**  
 
 ---
 
-## Stack
+## TechStack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
